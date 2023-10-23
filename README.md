@@ -1,5 +1,6 @@
 # Excel-Project
 Dataset from Kaggle
+
 orders sheet  – orders table
 
 Columns A - E (Order Id, Order Date, Customer ID, Product ID, Quantity) was already populated in the dataset while columns F - M (Customer Name, Email, Country, Coffee Type, Roast Type, Size, Unit price, Sales) was not populated so data gathering was used to fill the data for these columns from other tables on other spreadsheets.
